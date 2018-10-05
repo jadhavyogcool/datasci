@@ -1,0 +1,10 @@
+Role,Age,Experience,Hire
+Developer,20,0,Yes
+Tester,27,3,Yes
+Developer,24,,No
+UI Designer,27,5,Yes
+Manager,30,7,Yes
+Developer,20,0,No
+UI Designer,,2,Yes
+Tester,27,3,Yes
+Manager,35,0,No
