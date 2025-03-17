@@ -1,0 +1,10 @@
+movies = {
+    'Title': ['Batman Begins', 'The Dark Knight', 'Avengers', 'Iron Man', 'Superman Returns'],
+    'Description': [
+        'A masked vigilante fights crime in Gotham City.',
+        'A superhero battles villains and saves the city.',
+        'A team of superheroes saves the world from destruction.',
+        'A billionaire builds a suit and becomes a superhero.',
+        'An alien with superpowers protects the world from evil.'
+    ]
+}
